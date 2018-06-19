@@ -73,5 +73,9 @@ Section {
 }
 
 #footer {
-    background-color: #ebebeb
+    background-color: #ebebeb;
+    color:  #777777;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
